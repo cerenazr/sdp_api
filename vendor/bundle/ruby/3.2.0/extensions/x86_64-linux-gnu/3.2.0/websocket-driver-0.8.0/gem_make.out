@@ -1,0 +1,18 @@
+current directory: /home/cerenazr/projects/sdp_api/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+/usr/bin/ruby3.2 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/cerenazr/projects/sdp_api/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251018-8045-ctihoi sitelibdir\=./.gem.20251018-8045-ctihoi clean
+
+current directory: /home/cerenazr/projects/sdp_api/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251018-8045-ctihoi sitelibdir\=./.gem.20251018-8045-ctihoi
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/cerenazr/projects/sdp_api/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251018-8045-ctihoi sitelibdir\=./.gem.20251018-8045-ctihoi install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20251018-8045-ctihoi
+
+current directory: /home/cerenazr/projects/sdp_api/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.8.0/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20251018-8045-ctihoi sitelibdir\=./.gem.20251018-8045-ctihoi clean
